@@ -9,4 +9,4 @@ A Hybrid Method based on Cellular Learning Automata and Longest Common Subsequen
 5) Each sample folder should consist of 1 to n “chromosome information file” which is termed by the name of each chromosome and is composed with two columns “CpG location” and “methylation ratio”. 
 6) Run “Main.m”.
 7) The output results are accessible in DMRs file.
-Note:  CLA-LCS   DMR   program   is   implemented   in   Ubuntu   enviroment.   If   it   is   run   inWindows enviroment, several directories  should be changed in “Main, Model and  Final”functions
+* Note:  CLA-LCS   DMR   program   is   implemented   in   Ubuntu   enviroment.   If   it   is   run   inWindows enviroment, several directories  should be changed in “Main, Model and  Final”functions
