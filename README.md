@@ -2,7 +2,8 @@
 ## MATLAB Version: 8.6
 ## Description
 A Hybrid Method based on Cellular Learning Automata and Longest Common Subsequence Algorithm to Detect Differential Methylation Regions in Bisulfite Sequencing Data
-## Each data must have 2 column. the first column is contained Locations and the second column is consist of CPG's.
+
+Each data must have 2 column. the first column is contained Locations and the second column is consist of CPG's.
 ## How to Run
 1) Run "DMR_Finder.fig".
 2) Enter number of the Control samples,number of the Treatment samples, and number of the Chromosomes then press 'Create Directory' button. 
